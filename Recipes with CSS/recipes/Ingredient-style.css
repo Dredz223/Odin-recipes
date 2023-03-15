@@ -1,0 +1,25 @@
+img {
+    height: 100px;
+    width: 200px;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+ul {
+    color: #234223;
+}
+
+ol {
+    color: #00ffff;
+}
+
+h1, h3 {
+    color: #ee82ee;
+}
+
+p {
+    color: #ffff00;
+}
